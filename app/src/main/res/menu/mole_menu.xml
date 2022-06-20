@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/moleMenu">
+
+    <!-- Play / Pause-->
+    <item
+        android:id="@+id/playPause"
+        android:enabled="true"
+        android:icon="@drawable/play1"
+        android:title="@string/play"
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <!-- Reset-->
+    <item
+        android:id="@+id/reset"
+        android:enabled="true"
+        android:icon="@drawable/restart1"
+        android:title="@string/reset"
+        app:showAsAction="ifRoom" />
+
+</menu>

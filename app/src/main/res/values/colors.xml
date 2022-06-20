@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- #FF == fully opaque -->
+    <color name="black">#FF000000</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="green">#FF216827</color>
+    <color name="grey">#FF5E5870</color>
+    <color name="orange">#FFE78D40</color>
+    <color name="purple">#FFBB86FC</color>
+    <color name="red">#FFA52929</color>
+    <color name="teal">#FF03DAC5</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>

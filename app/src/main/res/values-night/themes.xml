@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.WackyMole" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/grey</item>
+        <item name="colorPrimaryVariant">@color/purple</item>
+        <item name="colorOnPrimary">@color/grey</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal</item>
+        <item name="colorSecondaryVariant">@color/teal</item>
+        <item name="colorOnSecondary">@color/grey</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+        <!-- Customize your theme here. -->
+        <item name="boardBackgroundColor">@color/grey</item>
+        <item name="scoreLevelTimeTextColor">@color/red</item>
+        <item name="scoreLevelTimeValueColor">@color/black</item>
+        <item name="toastBackgroundColor">@color/black</item>
+        <item name="toastTextColor">@color/orange</item>
+        <item name="toolbarBackgroundColor">@color/grey</item>
+        <item name="toolbarTextColor">@color/orange</item>
+
+    </style>
+</resources>

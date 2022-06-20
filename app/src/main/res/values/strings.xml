@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Holy Moly</string>
+    <string name="level">Level:</string>
+    <string name="levelCompleted">Level %1$s Completed!\nGame Speed: %2$s</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="pressPlay">Press play to start.</string>
+    <string name="reset">Reset</string>
+    <string name="score">Score:</string>
+    <string name="time">Time:</string>
+    <string name="zero">0</string>
+</resources>

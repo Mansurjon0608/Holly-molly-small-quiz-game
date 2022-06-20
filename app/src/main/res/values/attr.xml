@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="boardBackgroundColor"           format="color"/>
+    <attr name="scoreLevelTimeTextColor"        format="color"/>
+    <attr name="scoreLevelTimeValueColor"       format="color"/>
+    <attr name="toastBackgroundColor"           format="color"/>
+    <attr name="toastTextColor"                 format="color"/>
+    <attr name="toolbarBackgroundColor"         format="color"/>
+    <attr name="toolbarTextColor"               format="color"/>
+
+</resources>
